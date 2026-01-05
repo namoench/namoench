@@ -14,7 +14,7 @@ Previously, I worked in biopharma manufacturing and quality systems at Resilienc
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
 - **Regulatory AI Platform** — Distributed serverless architecture for AI-powered compliance analysis across DSCSA, ISO 13485, Cell & Gene Therapy, and Aseptic Processing domains
 - **Multi-GPU LLM Infrastructure** — Custom vLLM controller with automatic tensor parallelism for 70B+ parameter models across multiple GPUs
